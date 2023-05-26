@@ -1,0 +1,15 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\bin\Debug\net6.0\TutorialsEU_TinyDiscordBot.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\bin\Debug\net6.0\TutorialsEU_TinyDiscordBot.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\bin\Debug\net6.0\TutorialsEU_TinyDiscordBot.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\bin\Debug\net6.0\TutorialsEU_TinyDiscordBot.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\bin\Debug\net6.0\TutorialsEU_TinyDiscordBot.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\refint\TutorialsEU_TinyDiscordBot.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\TutorialsEU_TinyDiscordBot.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_TinyDiscordBot\obj\Debug\net6.0\ref\TutorialsEU_TinyDiscordBot.dll
